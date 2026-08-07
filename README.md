@@ -15,6 +15,7 @@
 | [0130-surrounded-regions](https://github.com/pradeep-git-dev/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0846-hand-of-straights](https://github.com/pradeep-git-dev/leetcode/tree/main/0846-hand-of-straights/) | Medium |
 | [0867-transpose-matrix](https://github.com/pradeep-git-dev/leetcode/tree/main/0867-transpose-matrix/) | Easy |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/pradeep-git-dev/leetcode/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,4 +49,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0846-hand-of-straights](https://github.com/pradeep-git-dev/leetcode/tree/main/0846-hand-of-straights/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/pradeep-git-dev/leetcode/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 <!---LeetCode Topics End-->
