@@ -17,6 +17,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/pradeep-git-dev/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0846-hand-of-straights](https://github.com/pradeep-git-dev/leetcode/tree/main/0846-hand-of-straights/) | Medium |
 | [0867-transpose-matrix](https://github.com/pradeep-git-dev/leetcode/tree/main/0867-transpose-matrix/) | Easy |
+| [0881-boats-to-save-people](https://github.com/pradeep-git-dev/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/pradeep-git-dev/leetcode/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -48,10 +49,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0846-hand-of-straights](https://github.com/pradeep-git-dev/leetcode/tree/main/0846-hand-of-straights/) | Medium |
+| [0881-boats-to-save-people](https://github.com/pradeep-git-dev/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0846-hand-of-straights](https://github.com/pradeep-git-dev/leetcode/tree/main/0846-hand-of-straights/) | Medium |
+| [0881-boats-to-save-people](https://github.com/pradeep-git-dev/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,4 +67,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0152-maximum-product-subarray](https://github.com/pradeep-git-dev/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0881-boats-to-save-people](https://github.com/pradeep-git-dev/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
+## Timsort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0881-boats-to-save-people](https://github.com/pradeep-git-dev/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 <!---LeetCode Topics End-->
