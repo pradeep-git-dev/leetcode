@@ -18,6 +18,7 @@
 | [0846-hand-of-straights](https://github.com/pradeep-git-dev/leetcode/tree/main/0846-hand-of-straights/) | Medium |
 | [0867-transpose-matrix](https://github.com/pradeep-git-dev/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0881-boats-to-save-people](https://github.com/pradeep-git-dev/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
+| [2187-minimum-time-to-complete-trips](https://github.com/pradeep-git-dev/leetcode/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/pradeep-git-dev/leetcode/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -58,6 +59,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2187-minimum-time-to-complete-trips](https://github.com/pradeep-git-dev/leetcode/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/pradeep-git-dev/leetcode/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
