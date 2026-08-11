@@ -30,6 +30,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/pradeep-git-dev/leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [2187-minimum-time-to-complete-trips](https://github.com/pradeep-git-dev/leetcode/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/pradeep-git-dev/leetcode/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
+| [2352-equal-row-and-column-pairs](https://github.com/pradeep-git-dev/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/pradeep-git-dev/leetcode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -49,10 +50,12 @@
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/pradeep-git-dev/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0867-transpose-matrix](https://github.com/pradeep-git-dev/leetcode/tree/main/0867-transpose-matrix/) | Easy |
+| [2352-equal-row-and-column-pairs](https://github.com/pradeep-git-dev/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0867-transpose-matrix](https://github.com/pradeep-git-dev/leetcode/tree/main/0867-transpose-matrix/) | Easy |
+| [2352-equal-row-and-column-pairs](https://github.com/pradeep-git-dev/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/pradeep-git-dev/leetcode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -63,6 +66,7 @@
 | [0525-contiguous-array](https://github.com/pradeep-git-dev/leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/pradeep-git-dev/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0846-hand-of-straights](https://github.com/pradeep-git-dev/leetcode/tree/main/0846-hand-of-straights/) | Medium |
+| [2352-equal-row-and-column-pairs](https://github.com/pradeep-git-dev/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
