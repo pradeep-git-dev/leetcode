@@ -153,6 +153,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/pradeep-git-dev/leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0058-length-of-last-word](https://github.com/pradeep-git-dev/leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0299-bulls-and-cows](https://github.com/pradeep-git-dev/leetcode/tree/main/0299-bulls-and-cows/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
