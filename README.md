@@ -25,6 +25,7 @@
 | [0435-non-overlapping-intervals](https://github.com/pradeep-git-dev/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0525-contiguous-array](https://github.com/pradeep-git-dev/leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/pradeep-git-dev/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/pradeep-git-dev/leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/pradeep-git-dev/leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0846-hand-of-straights](https://github.com/pradeep-git-dev/leetcode/tree/main/0846-hand-of-straights/) | Medium |
 | [0867-transpose-matrix](https://github.com/pradeep-git-dev/leetcode/tree/main/0867-transpose-matrix/) | Easy |
@@ -123,6 +124,7 @@
 | [0213-house-robber-ii](https://github.com/pradeep-git-dev/leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/pradeep-git-dev/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/pradeep-git-dev/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/pradeep-git-dev/leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/pradeep-git-dev/leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -176,4 +178,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/pradeep-git-dev/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/pradeep-git-dev/leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/pradeep-git-dev/leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/pradeep-git-dev/leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
