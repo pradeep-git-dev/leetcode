@@ -167,6 +167,7 @@
 | [0299-bulls-and-cows](https://github.com/pradeep-git-dev/leetcode/tree/main/0299-bulls-and-cows/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/pradeep-git-dev/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/pradeep-git-dev/leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pradeep-git-dev/leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pradeep-git-dev/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -180,6 +181,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pradeep-git-dev/leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/pradeep-git-dev/leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pradeep-git-dev/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pradeep-git-dev/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
