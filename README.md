@@ -119,6 +119,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/pradeep-git-dev/leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0115-distinct-subsequences](https://github.com/pradeep-git-dev/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/pradeep-git-dev/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/pradeep-git-dev/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/pradeep-git-dev/leetcode/tree/main/0213-house-robber-ii/) | Medium |
@@ -160,6 +161,7 @@
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/pradeep-git-dev/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/pradeep-git-dev/leetcode/tree/main/0058-length-of-last-word/) | Easy |
+| [0115-distinct-subsequences](https://github.com/pradeep-git-dev/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0299-bulls-and-cows](https://github.com/pradeep-git-dev/leetcode/tree/main/0299-bulls-and-cows/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/pradeep-git-dev/leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Counting
