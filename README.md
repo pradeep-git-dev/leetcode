@@ -127,6 +127,7 @@
 | [0435-non-overlapping-intervals](https://github.com/pradeep-git-dev/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/pradeep-git-dev/leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/pradeep-git-dev/leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0940-distinct-subsequences-ii](https://github.com/pradeep-git-dev/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/pradeep-git-dev/leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -163,6 +164,7 @@
 | [0058-length-of-last-word](https://github.com/pradeep-git-dev/leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0115-distinct-subsequences](https://github.com/pradeep-git-dev/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0299-bulls-and-cows](https://github.com/pradeep-git-dev/leetcode/tree/main/0299-bulls-and-cows/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/pradeep-git-dev/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/pradeep-git-dev/leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
