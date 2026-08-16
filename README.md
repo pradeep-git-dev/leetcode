@@ -21,6 +21,7 @@
 | [0041-first-missing-positive](https://github.com/pradeep-git-dev/leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/pradeep-git-dev/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0064-minimum-path-sum](https://github.com/pradeep-git-dev/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0120-triangle](https://github.com/pradeep-git-dev/leetcode/tree/main/0120-triangle/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/pradeep-git-dev/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/pradeep-git-dev/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/pradeep-git-dev/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -147,6 +148,7 @@
 | [0064-minimum-path-sum](https://github.com/pradeep-git-dev/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/pradeep-git-dev/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0115-distinct-subsequences](https://github.com/pradeep-git-dev/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
+| [0120-triangle](https://github.com/pradeep-git-dev/leetcode/tree/main/0120-triangle/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/pradeep-git-dev/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/pradeep-git-dev/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/pradeep-git-dev/leetcode/tree/main/0213-house-robber-ii/) | Medium |
