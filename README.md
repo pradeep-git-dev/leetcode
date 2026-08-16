@@ -7,6 +7,7 @@
 | [0070-climbing-stairs](https://github.com/pradeep-git-dev/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0258-add-digits](https://github.com/pradeep-git-dev/leetcode/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/pradeep-git-dev/leetcode/tree/main/0263-ugly-number/) | Easy |
+| [0326-power-of-three](https://github.com/pradeep-git-dev/leetcode/tree/main/0326-power-of-three/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pradeep-git-dev/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -241,4 +242,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/pradeep-git-dev/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0326-power-of-three](https://github.com/pradeep-git-dev/leetcode/tree/main/0326-power-of-three/) | Easy |
 <!---LeetCode Topics End-->
