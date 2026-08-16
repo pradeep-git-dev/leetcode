@@ -46,6 +46,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/pradeep-git-dev/leetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0948-bag-of-tokens](https://github.com/pradeep-git-dev/leetcode/tree/main/0948-bag-of-tokens/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/pradeep-git-dev/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1289-minimum-falling-path-sum-ii](https://github.com/pradeep-git-dev/leetcode/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
 | [1552-magnetic-force-between-two-balls](https://github.com/pradeep-git-dev/leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1726-tuple-with-same-product](https://github.com/pradeep-git-dev/leetcode/tree/main/1726-tuple-with-same-product/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/pradeep-git-dev/leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
@@ -76,6 +77,7 @@
 | [0130-surrounded-regions](https://github.com/pradeep-git-dev/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0867-transpose-matrix](https://github.com/pradeep-git-dev/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/pradeep-git-dev/leetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [1289-minimum-falling-path-sum-ii](https://github.com/pradeep-git-dev/leetcode/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
 | [2352-equal-row-and-column-pairs](https://github.com/pradeep-git-dev/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -164,6 +166,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/pradeep-git-dev/leetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/pradeep-git-dev/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/pradeep-git-dev/leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1289-minimum-falling-path-sum-ii](https://github.com/pradeep-git-dev/leetcode/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
