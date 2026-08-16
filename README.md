@@ -26,6 +26,7 @@
 | [0219-contains-duplicate-ii](https://github.com/pradeep-git-dev/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/pradeep-git-dev/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/pradeep-git-dev/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/pradeep-git-dev/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/pradeep-git-dev/leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/pradeep-git-dev/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0494-target-sum](https://github.com/pradeep-git-dev/leetcode/tree/main/0494-target-sum/) | Medium |
@@ -124,6 +125,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/pradeep-git-dev/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0525-contiguous-array](https://github.com/pradeep-git-dev/leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/pradeep-git-dev/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/pradeep-git-dev/leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
@@ -235,4 +237,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/pradeep-git-dev/leetcode/tree/main/0258-add-digits/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/pradeep-git-dev/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->
