@@ -21,6 +21,7 @@
 | [0198-house-robber](https://github.com/pradeep-git-dev/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/pradeep-git-dev/leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/pradeep-git-dev/leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/pradeep-git-dev/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/pradeep-git-dev/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/pradeep-git-dev/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/pradeep-git-dev/leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -77,6 +78,7 @@
 | [0049-group-anagrams](https://github.com/pradeep-git-dev/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/pradeep-git-dev/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/pradeep-git-dev/leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/pradeep-git-dev/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0299-bulls-and-cows](https://github.com/pradeep-git-dev/leetcode/tree/main/0299-bulls-and-cows/) | Medium |
 | [0525-contiguous-array](https://github.com/pradeep-git-dev/leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/pradeep-git-dev/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -190,6 +192,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/pradeep-git-dev/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pradeep-git-dev/leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/pradeep-git-dev/leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pradeep-git-dev/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
