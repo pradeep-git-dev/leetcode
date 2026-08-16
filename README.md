@@ -118,6 +118,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/pradeep-git-dev/leetcode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/pradeep-git-dev/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/pradeep-git-dev/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0367-valid-perfect-square](https://github.com/pradeep-git-dev/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
@@ -163,6 +164,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/pradeep-git-dev/leetcode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/pradeep-git-dev/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/pradeep-git-dev/leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Pigeonhole Principle
@@ -249,4 +251,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0326-power-of-three](https://github.com/pradeep-git-dev/leetcode/tree/main/0326-power-of-three/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/pradeep-git-dev/leetcode/tree/main/0222-count-complete-tree-nodes/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/pradeep-git-dev/leetcode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 <!---LeetCode Topics End-->
