@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/pradeep-git-dev/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0258-add-digits](https://github.com/pradeep-git-dev/leetcode/tree/main/0258-add-digits/) | Easy |
+| [0263-ugly-number](https://github.com/pradeep-git-dev/leetcode/tree/main/0263-ugly-number/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pradeep-git-dev/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 | Problem Name | Difficulty |
