@@ -4,6 +4,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/pradeep-git-dev/leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/pradeep-git-dev/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0258-add-digits](https://github.com/pradeep-git-dev/leetcode/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/pradeep-git-dev/leetcode/tree/main/0263-ugly-number/) | Easy |
@@ -140,6 +141,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/pradeep-git-dev/leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/pradeep-git-dev/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0115-distinct-subsequences](https://github.com/pradeep-git-dev/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/pradeep-git-dev/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -266,4 +268,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/pradeep-git-dev/leetcode/tree/main/0222-count-complete-tree-nodes/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/pradeep-git-dev/leetcode/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
