@@ -20,6 +20,7 @@
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/pradeep-git-dev/leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/pradeep-git-dev/leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0064-minimum-path-sum](https://github.com/pradeep-git-dev/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/pradeep-git-dev/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/pradeep-git-dev/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/pradeep-git-dev/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -69,6 +70,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0064-minimum-path-sum](https://github.com/pradeep-git-dev/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0130-surrounded-regions](https://github.com/pradeep-git-dev/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0867-transpose-matrix](https://github.com/pradeep-git-dev/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/pradeep-git-dev/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
@@ -142,6 +144,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/pradeep-git-dev/leetcode/tree/main/0062-unique-paths/) | Medium |
+| [0064-minimum-path-sum](https://github.com/pradeep-git-dev/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/pradeep-git-dev/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0115-distinct-subsequences](https://github.com/pradeep-git-dev/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/pradeep-git-dev/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
