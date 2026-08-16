@@ -24,6 +24,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/pradeep-git-dev/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/pradeep-git-dev/leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/pradeep-git-dev/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0494-target-sum](https://github.com/pradeep-git-dev/leetcode/tree/main/0494-target-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/pradeep-git-dev/leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/pradeep-git-dev/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/pradeep-git-dev/leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
@@ -129,6 +130,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/pradeep-git-dev/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/pradeep-git-dev/leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/pradeep-git-dev/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0494-target-sum](https://github.com/pradeep-git-dev/leetcode/tree/main/0494-target-sum/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/pradeep-git-dev/leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/pradeep-git-dev/leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/pradeep-git-dev/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -210,8 +212,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/pradeep-git-dev/leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/pradeep-git-dev/leetcode/tree/main/0494-target-sum/) | Medium |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/pradeep-git-dev/leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/pradeep-git-dev/leetcode/tree/main/0494-target-sum/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0494-target-sum](https://github.com/pradeep-git-dev/leetcode/tree/main/0494-target-sum/) | Medium |
 <!---LeetCode Topics End-->
