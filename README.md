@@ -150,6 +150,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/pradeep-git-dev/leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0062-unique-paths](https://github.com/pradeep-git-dev/leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/pradeep-git-dev/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/pradeep-git-dev/leetcode/tree/main/0070-climbing-stairs/) | Easy |
@@ -204,6 +205,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/pradeep-git-dev/leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0049-group-anagrams](https://github.com/pradeep-git-dev/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/pradeep-git-dev/leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0115-distinct-subsequences](https://github.com/pradeep-git-dev/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
@@ -273,6 +275,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/pradeep-git-dev/leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0326-power-of-three](https://github.com/pradeep-git-dev/leetcode/tree/main/0326-power-of-three/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
