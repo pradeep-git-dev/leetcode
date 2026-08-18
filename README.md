@@ -71,6 +71,7 @@
 | [0130-surrounded-regions](https://github.com/pradeep-git-dev/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0463-island-perimeter](https://github.com/pradeep-git-dev/leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0513-find-bottom-left-tree-value](https://github.com/pradeep-git-dev/leetcode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/pradeep-git-dev/leetcode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,6 +79,7 @@
 | [0279-perfect-squares](https://github.com/pradeep-git-dev/leetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0463-island-perimeter](https://github.com/pradeep-git-dev/leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0513-find-bottom-left-tree-value](https://github.com/pradeep-git-dev/leetcode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/pradeep-git-dev/leetcode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -302,11 +304,13 @@
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/pradeep-git-dev/leetcode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/pradeep-git-dev/leetcode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/pradeep-git-dev/leetcode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/pradeep-git-dev/leetcode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/pradeep-git-dev/leetcode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/pradeep-git-dev/leetcode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
