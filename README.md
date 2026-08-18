@@ -8,6 +8,7 @@
 | [0070-climbing-stairs](https://github.com/pradeep-git-dev/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0258-add-digits](https://github.com/pradeep-git-dev/leetcode/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/pradeep-git-dev/leetcode/tree/main/0263-ugly-number/) | Easy |
+| [0279-perfect-squares](https://github.com/pradeep-git-dev/leetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0326-power-of-three](https://github.com/pradeep-git-dev/leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0367-valid-perfect-square](https://github.com/pradeep-git-dev/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pradeep-git-dev/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -66,6 +67,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/pradeep-git-dev/leetcode/tree/main/0130-surrounded-regions/) | Medium |
+| [0279-perfect-squares](https://github.com/pradeep-git-dev/leetcode/tree/main/0279-perfect-squares/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -160,6 +162,7 @@
 | [0174-dungeon-game](https://github.com/pradeep-git-dev/leetcode/tree/main/0174-dungeon-game/) | Hard |
 | [0198-house-robber](https://github.com/pradeep-git-dev/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/pradeep-git-dev/leetcode/tree/main/0213-house-robber-ii/) | Medium |
+| [0279-perfect-squares](https://github.com/pradeep-git-dev/leetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/pradeep-git-dev/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0376-wiggle-subsequence](https://github.com/pradeep-git-dev/leetcode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/pradeep-git-dev/leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -253,6 +256,7 @@
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0279-perfect-squares](https://github.com/pradeep-git-dev/leetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/pradeep-git-dev/leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/pradeep-git-dev/leetcode/tree/main/0494-target-sum/) | Medium |
 ## 0-1 Knapsack
@@ -289,4 +293,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/pradeep-git-dev/leetcode/tree/main/0062-unique-paths/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0279-perfect-squares](https://github.com/pradeep-git-dev/leetcode/tree/main/0279-perfect-squares/) | Medium |
 <!---LeetCode Topics End-->
