@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/pradeep-git-dev/leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/pradeep-git-dev/leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0204-count-primes](https://github.com/pradeep-git-dev/leetcode/tree/main/0204-count-primes/) | Medium |
 | [0258-add-digits](https://github.com/pradeep-git-dev/leetcode/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/pradeep-git-dev/leetcode/tree/main/0263-ugly-number/) | Easy |
 | [0279-perfect-squares](https://github.com/pradeep-git-dev/leetcode/tree/main/0279-perfect-squares/) | Medium |
@@ -15,6 +16,7 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/pradeep-git-dev/leetcode/tree/main/0204-count-primes/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pradeep-git-dev/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Array
 | Problem Name | Difficulty |
@@ -28,6 +30,7 @@
 | [0152-maximum-product-subarray](https://github.com/pradeep-git-dev/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0174-dungeon-game](https://github.com/pradeep-git-dev/leetcode/tree/main/0174-dungeon-game/) | Hard |
 | [0198-house-robber](https://github.com/pradeep-git-dev/leetcode/tree/main/0198-house-robber/) | Medium |
+| [0204-count-primes](https://github.com/pradeep-git-dev/leetcode/tree/main/0204-count-primes/) | Medium |
 | [0213-house-robber-ii](https://github.com/pradeep-git-dev/leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/pradeep-git-dev/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/pradeep-git-dev/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -271,6 +274,7 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/pradeep-git-dev/leetcode/tree/main/0204-count-primes/) | Medium |
 | [0258-add-digits](https://github.com/pradeep-git-dev/leetcode/tree/main/0258-add-digits/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -297,4 +301,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/pradeep-git-dev/leetcode/tree/main/0279-perfect-squares/) | Medium |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/pradeep-git-dev/leetcode/tree/main/0204-count-primes/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/pradeep-git-dev/leetcode/tree/main/0204-count-primes/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/pradeep-git-dev/leetcode/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
