@@ -42,6 +42,7 @@
 | [0376-wiggle-subsequence](https://github.com/pradeep-git-dev/leetcode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/pradeep-git-dev/leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/pradeep-git-dev/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0463-island-perimeter](https://github.com/pradeep-git-dev/leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0494-target-sum](https://github.com/pradeep-git-dev/leetcode/tree/main/0494-target-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/pradeep-git-dev/leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/pradeep-git-dev/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -68,11 +69,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/pradeep-git-dev/leetcode/tree/main/0130-surrounded-regions/) | Medium |
+| [0463-island-perimeter](https://github.com/pradeep-git-dev/leetcode/tree/main/0463-island-perimeter/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/pradeep-git-dev/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0279-perfect-squares](https://github.com/pradeep-git-dev/leetcode/tree/main/0279-perfect-squares/) | Medium |
+| [0463-island-perimeter](https://github.com/pradeep-git-dev/leetcode/tree/main/0463-island-perimeter/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,6 +87,7 @@
 | [0064-minimum-path-sum](https://github.com/pradeep-git-dev/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0130-surrounded-regions](https://github.com/pradeep-git-dev/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0174-dungeon-game](https://github.com/pradeep-git-dev/leetcode/tree/main/0174-dungeon-game/) | Hard |
+| [0463-island-perimeter](https://github.com/pradeep-git-dev/leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0867-transpose-matrix](https://github.com/pradeep-git-dev/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/pradeep-git-dev/leetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1289-minimum-falling-path-sum-ii](https://github.com/pradeep-git-dev/leetcode/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
