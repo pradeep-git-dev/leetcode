@@ -15,6 +15,7 @@
 | [0367-valid-perfect-square](https://github.com/pradeep-git-dev/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0415-add-strings](https://github.com/pradeep-git-dev/leetcode/tree/main/0415-add-strings/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pradeep-git-dev/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/pradeep-git-dev/leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
