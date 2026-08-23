@@ -14,6 +14,7 @@
 | [0342-power-of-four](https://github.com/pradeep-git-dev/leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/pradeep-git-dev/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0415-add-strings](https://github.com/pradeep-git-dev/leetcode/tree/main/0415-add-strings/) | Easy |
+| [1927-sum-game](https://github.com/pradeep-git-dev/leetcode/tree/main/1927-sum-game/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pradeep-git-dev/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/pradeep-git-dev/leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Enumeration
@@ -142,6 +143,7 @@
 | [0948-bag-of-tokens](https://github.com/pradeep-git-dev/leetcode/tree/main/0948-bag-of-tokens/) | Medium |
 | [0969-pancake-sorting](https://github.com/pradeep-git-dev/leetcode/tree/main/0969-pancake-sorting/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/pradeep-git-dev/leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [1927-sum-game](https://github.com/pradeep-git-dev/leetcode/tree/main/1927-sum-game/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -246,6 +248,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/pradeep-git-dev/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/pradeep-git-dev/leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pradeep-git-dev/leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1927-sum-game](https://github.com/pradeep-git-dev/leetcode/tree/main/1927-sum-game/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pradeep-git-dev/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -345,4 +348,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/pradeep-git-dev/leetcode/tree/main/0204-count-primes/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1927-sum-game](https://github.com/pradeep-git-dev/leetcode/tree/main/1927-sum-game/) | Medium |
 <!---LeetCode Topics End-->
