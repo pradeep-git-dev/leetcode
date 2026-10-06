@@ -14,6 +14,7 @@
 | [0342-power-of-four](https://github.com/pradeep-git-dev/leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/pradeep-git-dev/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0415-add-strings](https://github.com/pradeep-git-dev/leetcode/tree/main/0415-add-strings/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/pradeep-git-dev/leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1927-sum-game](https://github.com/pradeep-git-dev/leetcode/tree/main/1927-sum-game/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pradeep-git-dev/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/pradeep-git-dev/leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -257,6 +258,7 @@
 | [0763-partition-labels](https://github.com/pradeep-git-dev/leetcode/tree/main/0763-partition-labels/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pradeep-git-dev/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/pradeep-git-dev/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1071-greatest-common-divisor-of-strings](https://github.com/pradeep-git-dev/leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/pradeep-git-dev/leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pradeep-git-dev/leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/pradeep-git-dev/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -404,4 +406,12 @@
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/pradeep-git-dev/leetcode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1683-invalid-tweets](https://github.com/pradeep-git-dev/leetcode/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/pradeep-git-dev/leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/pradeep-git-dev/leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/pradeep-git-dev/leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 <!---LeetCode Topics End-->
