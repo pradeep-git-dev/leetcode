@@ -218,6 +218,7 @@
 | [0948-bag-of-tokens](https://github.com/pradeep-git-dev/leetcode/tree/main/0948-bag-of-tokens/) | Medium |
 | [0969-pancake-sorting](https://github.com/pradeep-git-dev/leetcode/tree/main/0969-pancake-sorting/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/pradeep-git-dev/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/pradeep-git-dev/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2462-total-cost-to-hire-k-workers](https://github.com/pradeep-git-dev/leetcode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 ## Timsort
 | Problem Name | Difficulty |
@@ -258,6 +259,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/pradeep-git-dev/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/pradeep-git-dev/leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pradeep-git-dev/leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1768-merge-strings-alternately](https://github.com/pradeep-git-dev/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1927-sum-game](https://github.com/pradeep-git-dev/leetcode/tree/main/1927-sum-game/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pradeep-git-dev/leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pradeep-git-dev/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
