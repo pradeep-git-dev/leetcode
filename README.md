@@ -395,5 +395,6 @@
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1148-article-views-i](https://github.com/pradeep-git-dev/leetcode/tree/main/1148-article-views-i/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/pradeep-git-dev/leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
