@@ -51,6 +51,7 @@
 | [0518-coin-change-ii](https://github.com/pradeep-git-dev/leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0525-contiguous-array](https://github.com/pradeep-git-dev/leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/pradeep-git-dev/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0605-can-place-flowers](https://github.com/pradeep-git-dev/leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/pradeep-git-dev/leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/pradeep-git-dev/leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0846-hand-of-straights](https://github.com/pradeep-git-dev/leetcode/tree/main/0846-hand-of-straights/) | Medium |
@@ -144,6 +145,7 @@
 | ------- | ------- |
 | [0376-wiggle-subsequence](https://github.com/pradeep-git-dev/leetcode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/pradeep-git-dev/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0605-can-place-flowers](https://github.com/pradeep-git-dev/leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0763-partition-labels](https://github.com/pradeep-git-dev/leetcode/tree/main/0763-partition-labels/) | Medium |
 | [0846-hand-of-straights](https://github.com/pradeep-git-dev/leetcode/tree/main/0846-hand-of-straights/) | Medium |
 | [0881-boats-to-save-people](https://github.com/pradeep-git-dev/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
