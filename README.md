@@ -61,6 +61,7 @@
 | [0969-pancake-sorting](https://github.com/pradeep-git-dev/leetcode/tree/main/0969-pancake-sorting/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/pradeep-git-dev/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1289-minimum-falling-path-sum-ii](https://github.com/pradeep-git-dev/leetcode/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/pradeep-git-dev/leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/pradeep-git-dev/leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1726-tuple-with-same-product](https://github.com/pradeep-git-dev/leetcode/tree/main/1726-tuple-with-same-product/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/pradeep-git-dev/leetcode/tree/main/1765-map-of-highest-peak/) | Medium |
