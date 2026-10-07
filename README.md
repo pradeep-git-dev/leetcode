@@ -216,6 +216,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/pradeep-git-dev/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/pradeep-git-dev/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/pradeep-git-dev/leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0763-partition-labels](https://github.com/pradeep-git-dev/leetcode/tree/main/0763-partition-labels/) | Medium |
@@ -256,6 +257,7 @@
 | [0049-group-anagrams](https://github.com/pradeep-git-dev/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/pradeep-git-dev/leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0115-distinct-subsequences](https://github.com/pradeep-git-dev/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
+| [0151-reverse-words-in-a-string](https://github.com/pradeep-git-dev/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0299-bulls-and-cows](https://github.com/pradeep-git-dev/leetcode/tree/main/0299-bulls-and-cows/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/pradeep-git-dev/leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0415-add-strings](https://github.com/pradeep-git-dev/leetcode/tree/main/0415-add-strings/) | Easy |
