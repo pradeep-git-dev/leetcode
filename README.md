@@ -27,6 +27,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/pradeep-git-dev/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0041-first-missing-positive](https://github.com/pradeep-git-dev/leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/pradeep-git-dev/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0064-minimum-path-sum](https://github.com/pradeep-git-dev/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
@@ -145,6 +146,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/pradeep-git-dev/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/pradeep-git-dev/leetcode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0376-wiggle-subsequence](https://github.com/pradeep-git-dev/leetcode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/pradeep-git-dev/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -220,6 +222,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/pradeep-git-dev/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/pradeep-git-dev/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0283-move-zeroes](https://github.com/pradeep-git-dev/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/pradeep-git-dev/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
