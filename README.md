@@ -40,6 +40,7 @@
 | [0213-house-robber-ii](https://github.com/pradeep-git-dev/leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/pradeep-git-dev/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/pradeep-git-dev/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0283-move-zeroes](https://github.com/pradeep-git-dev/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/pradeep-git-dev/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/pradeep-git-dev/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/pradeep-git-dev/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
@@ -219,6 +220,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/pradeep-git-dev/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0283-move-zeroes](https://github.com/pradeep-git-dev/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/pradeep-git-dev/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/pradeep-git-dev/leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0443-string-compression](https://github.com/pradeep-git-dev/leetcode/tree/main/0443-string-compression/) | Medium |
