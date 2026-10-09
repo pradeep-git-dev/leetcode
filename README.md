@@ -66,6 +66,7 @@
 | [0969-pancake-sorting](https://github.com/pradeep-git-dev/leetcode/tree/main/0969-pancake-sorting/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/pradeep-git-dev/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/pradeep-git-dev/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1207-unique-number-of-occurrences](https://github.com/pradeep-git-dev/leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1289-minimum-falling-path-sum-ii](https://github.com/pradeep-git-dev/leetcode/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/pradeep-git-dev/leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pradeep-git-dev/leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -142,6 +143,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/pradeep-git-dev/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0763-partition-labels](https://github.com/pradeep-git-dev/leetcode/tree/main/0763-partition-labels/) | Medium |
 | [0846-hand-of-straights](https://github.com/pradeep-git-dev/leetcode/tree/main/0846-hand-of-straights/) | Medium |
+| [1207-unique-number-of-occurrences](https://github.com/pradeep-git-dev/leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/pradeep-git-dev/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1726-tuple-with-same-product](https://github.com/pradeep-git-dev/leetcode/tree/main/1726-tuple-with-same-product/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/pradeep-git-dev/leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
