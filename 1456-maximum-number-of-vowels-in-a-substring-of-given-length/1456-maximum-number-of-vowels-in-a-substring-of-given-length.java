@@ -1,38 +1,15 @@
 class Solution {
     public int maxVowels(String s, int k) {
-        int n = s.length();
-        if(n<k) return 0;
-        Set<Character> set = new HashSet<>();
-        set.add('a');
-        set.add('e');
-        set.add('i');
-        set.add('o');
-        set.add('u');
-        int left = 0;
-        int max = 0;
-        int vow = 0;
-        
-        for(int right = 0; right <k; right++){
-            char ch = s.charAt(right);
-            if(set.contains(ch)){
-                vow++;
+        int mx = 0, cnt = 0, n = s.length();
+        for (int i = 0; i < n; i++) {
+            if (i >= k) {
+                char p = s.charAt(i - k);
+                if (p == 'a' || p == 'e' || p == 'i' || p == 'o' || p == 'u') cnt--;
             }
-            max = Math.max(vow , max);
+            char c = s.charAt(i);
+            if (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u') cnt++;
+            mx = Math.max(mx, cnt);
         }
-
-        for(int right = k; right <n; right++){
-            char ch = s.charAt(right);
-            char c = s.charAt(left);
-            if(set.contains(c)){
-                vow--;
-            }
-            left++;
-            if(set.contains(ch)){
-                vow++;
-            }
-            max = Math.max(vow , max);
-        }
-        return max;
-        
+        return mx;
     }
 }
