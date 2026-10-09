@@ -67,6 +67,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/pradeep-git-dev/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1289-minimum-falling-path-sum-ii](https://github.com/pradeep-git-dev/leetcode/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/pradeep-git-dev/leetcode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pradeep-git-dev/leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/pradeep-git-dev/leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/pradeep-git-dev/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1726-tuple-with-same-product](https://github.com/pradeep-git-dev/leetcode/tree/main/1726-tuple-with-same-product/) | Medium |
@@ -225,6 +226,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/pradeep-git-dev/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/pradeep-git-dev/leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1289-minimum-falling-path-sum-ii](https://github.com/pradeep-git-dev/leetcode/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pradeep-git-dev/leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -308,6 +310,7 @@
 | [0219-contains-duplicate-ii](https://github.com/pradeep-git-dev/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/pradeep-git-dev/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pradeep-git-dev/leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pradeep-git-dev/leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/pradeep-git-dev/leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pradeep-git-dev/leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pradeep-git-dev/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
