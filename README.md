@@ -144,6 +144,7 @@
 | [0763-partition-labels](https://github.com/pradeep-git-dev/leetcode/tree/main/0763-partition-labels/) | Medium |
 | [0846-hand-of-straights](https://github.com/pradeep-git-dev/leetcode/tree/main/0846-hand-of-straights/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/pradeep-git-dev/leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1657-determine-if-two-strings-are-close](https://github.com/pradeep-git-dev/leetcode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/pradeep-git-dev/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1726-tuple-with-same-product](https://github.com/pradeep-git-dev/leetcode/tree/main/1726-tuple-with-same-product/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/pradeep-git-dev/leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -182,6 +183,7 @@
 | [0969-pancake-sorting](https://github.com/pradeep-git-dev/leetcode/tree/main/0969-pancake-sorting/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/pradeep-git-dev/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/pradeep-git-dev/leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [1657-determine-if-two-strings-are-close](https://github.com/pradeep-git-dev/leetcode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/pradeep-git-dev/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/pradeep-git-dev/leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pradeep-git-dev/leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -297,6 +299,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/pradeep-git-dev/leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/pradeep-git-dev/leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pradeep-git-dev/leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1657-determine-if-two-strings-are-close](https://github.com/pradeep-git-dev/leetcode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/pradeep-git-dev/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1927-sum-game](https://github.com/pradeep-git-dev/leetcode/tree/main/1927-sum-game/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pradeep-git-dev/leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -306,6 +309,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0299-bulls-and-cows](https://github.com/pradeep-git-dev/leetcode/tree/main/0299-bulls-and-cows/) | Medium |
+| [1657-determine-if-two-strings-are-close](https://github.com/pradeep-git-dev/leetcode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1726-tuple-with-same-product](https://github.com/pradeep-git-dev/leetcode/tree/main/1726-tuple-with-same-product/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/pradeep-git-dev/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Memoization
