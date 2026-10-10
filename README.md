@@ -420,6 +420,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/pradeep-git-dev/leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0328-odd-even-linked-list](https://github.com/pradeep-git-dev/leetcode/tree/main/0328-odd-even-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pradeep-git-dev/leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
