@@ -254,6 +254,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/pradeep-git-dev/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/pradeep-git-dev/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/pradeep-git-dev/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pradeep-git-dev/leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/pradeep-git-dev/leetcode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 ## Timsort
 | Problem Name | Difficulty |
@@ -419,6 +420,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/pradeep-git-dev/leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pradeep-git-dev/leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
