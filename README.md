@@ -22,6 +22,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/pradeep-git-dev/leetcode/tree/main/0204-count-primes/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/pradeep-git-dev/leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pradeep-git-dev/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/pradeep-git-dev/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Array
@@ -81,6 +82,7 @@
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/pradeep-git-dev/leetcode/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/pradeep-git-dev/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/pradeep-git-dev/leetcode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/pradeep-git-dev/leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pradeep-git-dev/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pradeep-git-dev/leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pradeep-git-dev/leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
