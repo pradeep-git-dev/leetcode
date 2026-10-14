@@ -298,6 +298,7 @@
 | [0299-bulls-and-cows](https://github.com/pradeep-git-dev/leetcode/tree/main/0299-bulls-and-cows/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/pradeep-git-dev/leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/pradeep-git-dev/leetcode/tree/main/0392-is-subsequence/) | Easy |
+| [0394-decode-string](https://github.com/pradeep-git-dev/leetcode/tree/main/0394-decode-string/) | Medium |
 | [0415-add-strings](https://github.com/pradeep-git-dev/leetcode/tree/main/0415-add-strings/) | Easy |
 | [0443-string-compression](https://github.com/pradeep-git-dev/leetcode/tree/main/0443-string-compression/) | Medium |
 | [0521-longest-uncommon-subsequence-i](https://github.com/pradeep-git-dev/leetcode/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
@@ -386,6 +387,7 @@
 | [0206-reverse-linked-list](https://github.com/pradeep-git-dev/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/pradeep-git-dev/leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/pradeep-git-dev/leetcode/tree/main/0342-power-of-four/) | Easy |
+| [0394-decode-string](https://github.com/pradeep-git-dev/leetcode/tree/main/0394-decode-string/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -451,6 +453,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0394-decode-string](https://github.com/pradeep-git-dev/leetcode/tree/main/0394-decode-string/) | Medium |
 | [0735-asteroid-collision](https://github.com/pradeep-git-dev/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pradeep-git-dev/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/pradeep-git-dev/leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
