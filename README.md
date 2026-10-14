@@ -58,6 +58,7 @@
 | [0605-can-place-flowers](https://github.com/pradeep-git-dev/leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/pradeep-git-dev/leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0724-find-pivot-index](https://github.com/pradeep-git-dev/leetcode/tree/main/0724-find-pivot-index/) | Easy |
+| [0735-asteroid-collision](https://github.com/pradeep-git-dev/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/pradeep-git-dev/leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0846-hand-of-straights](https://github.com/pradeep-git-dev/leetcode/tree/main/0846-hand-of-straights/) | Medium |
 | [0867-transpose-matrix](https://github.com/pradeep-git-dev/leetcode/tree/main/0867-transpose-matrix/) | Easy |
@@ -130,6 +131,7 @@
 | ------- | ------- |
 | [0258-add-digits](https://github.com/pradeep-git-dev/leetcode/tree/main/0258-add-digits/) | Easy |
 | [0415-add-strings](https://github.com/pradeep-git-dev/leetcode/tree/main/0415-add-strings/) | Easy |
+| [0735-asteroid-collision](https://github.com/pradeep-git-dev/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0867-transpose-matrix](https://github.com/pradeep-git-dev/leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/pradeep-git-dev/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/pradeep-git-dev/leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -449,6 +451,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0735-asteroid-collision](https://github.com/pradeep-git-dev/leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pradeep-git-dev/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/pradeep-git-dev/leetcode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Bracket Sequences
