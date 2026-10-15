@@ -380,6 +380,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/pradeep-git-dev/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0933-number-of-recent-calls](https://github.com/pradeep-git-dev/leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -498,4 +499,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/pradeep-git-dev/leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/pradeep-git-dev/leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/pradeep-git-dev/leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 <!---LeetCode Topics End-->
