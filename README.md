@@ -169,6 +169,7 @@
 | [0376-wiggle-subsequence](https://github.com/pradeep-git-dev/leetcode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/pradeep-git-dev/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0605-can-place-flowers](https://github.com/pradeep-git-dev/leetcode/tree/main/0605-can-place-flowers/) | Easy |
+| [0649-dota2-senate](https://github.com/pradeep-git-dev/leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [0763-partition-labels](https://github.com/pradeep-git-dev/leetcode/tree/main/0763-partition-labels/) | Medium |
 | [0846-hand-of-straights](https://github.com/pradeep-git-dev/leetcode/tree/main/0846-hand-of-straights/) | Medium |
 | [0881-boats-to-save-people](https://github.com/pradeep-git-dev/leetcode/tree/main/0881-boats-to-save-people/) | Medium |
@@ -302,6 +303,7 @@
 | [0415-add-strings](https://github.com/pradeep-git-dev/leetcode/tree/main/0415-add-strings/) | Easy |
 | [0443-string-compression](https://github.com/pradeep-git-dev/leetcode/tree/main/0443-string-compression/) | Medium |
 | [0521-longest-uncommon-subsequence-i](https://github.com/pradeep-git-dev/leetcode/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
+| [0649-dota2-senate](https://github.com/pradeep-git-dev/leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [0763-partition-labels](https://github.com/pradeep-git-dev/leetcode/tree/main/0763-partition-labels/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/pradeep-git-dev/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/pradeep-git-dev/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -502,6 +504,7 @@
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0649-dota2-senate](https://github.com/pradeep-git-dev/leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/pradeep-git-dev/leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
