@@ -36,6 +36,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/pradeep-git-dev/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/pradeep-git-dev/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/pradeep-git-dev/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0162-find-peak-element](https://github.com/pradeep-git-dev/leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0174-dungeon-game](https://github.com/pradeep-git-dev/leetcode/tree/main/0174-dungeon-game/) | Hard |
 | [0198-house-robber](https://github.com/pradeep-git-dev/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0204-count-primes](https://github.com/pradeep-git-dev/leetcode/tree/main/0204-count-primes/) | Medium |
@@ -205,6 +206,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0162-find-peak-element](https://github.com/pradeep-git-dev/leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/pradeep-git-dev/leetcode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/pradeep-git-dev/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/pradeep-git-dev/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
