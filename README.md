@@ -81,6 +81,7 @@
 | [2187-minimum-time-to-complete-trips](https://github.com/pradeep-git-dev/leetcode/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/pradeep-git-dev/leetcode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/pradeep-git-dev/leetcode/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/pradeep-git-dev/leetcode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/pradeep-git-dev/leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/pradeep-git-dev/leetcode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/pradeep-git-dev/leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -199,6 +200,7 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/pradeep-git-dev/leetcode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/pradeep-git-dev/leetcode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/pradeep-git-dev/leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/pradeep-git-dev/leetcode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pradeep-git-dev/leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -212,6 +214,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/pradeep-git-dev/leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2187-minimum-time-to-complete-trips](https://github.com/pradeep-git-dev/leetcode/tree/main/2187-minimum-time-to-complete-trips/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/pradeep-git-dev/leetcode/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/pradeep-git-dev/leetcode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -269,6 +272,7 @@
 | [1768-merge-strings-alternately](https://github.com/pradeep-git-dev/leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pradeep-git-dev/leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/pradeep-git-dev/leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/pradeep-git-dev/leetcode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/pradeep-git-dev/leetcode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 ## Timsort
 | Problem Name | Difficulty |
