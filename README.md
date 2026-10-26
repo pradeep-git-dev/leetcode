@@ -35,6 +35,7 @@
 | [0120-triangle](https://github.com/pradeep-git-dev/leetcode/tree/main/0120-triangle/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/pradeep-git-dev/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/pradeep-git-dev/leetcode/tree/main/0130-surrounded-regions/) | Medium |
+| [0136-single-number](https://github.com/pradeep-git-dev/leetcode/tree/main/0136-single-number/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/pradeep-git-dev/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0162-find-peak-element](https://github.com/pradeep-git-dev/leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0174-dungeon-game](https://github.com/pradeep-git-dev/leetcode/tree/main/0174-dungeon-game/) | Hard |
@@ -285,6 +286,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/pradeep-git-dev/leetcode/tree/main/0136-single-number/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/pradeep-git-dev/leetcode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/pradeep-git-dev/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0342-power-of-four](https://github.com/pradeep-git-dev/leetcode/tree/main/0342-power-of-four/) | Easy |
