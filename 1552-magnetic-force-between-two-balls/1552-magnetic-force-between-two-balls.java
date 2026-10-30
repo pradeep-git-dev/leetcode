@@ -1,42 +1,36 @@
 class Solution {
     public int maxDistance(int[] position, int m) {
         Arrays.sort(position);
-        int ans = 0;
-        int low = 1;
-        int high = max(position);
+        int n = position.length;
+        long low = 0;
+        long high = position[n - 1] - position[0];
+        long res = Integer.MAX_VALUE;
+        
         while(low <= high){
-            int mid = low + (high - low) / 2;
-            if(canPlace(mid , position, m)){
-                ans = mid;
+            long mid = (low + (high - low) / 2);
+            if(canPlace(mid, position, m)){
+                res = mid;
                 low = mid + 1;
             }else{
                 high = mid - 1;
             }
         }
-        return ans;
+        return (int)res;
         
     }
 
-    public boolean canPlace(int val, int[] arr, int m){
-        int c = 1;
-        int lastPos = arr[0];
-        for(int i=1; i<arr.length; i++){
-            if(arr[i] - lastPos >= val){
-                lastPos = arr[i];
-                c++;
+    public boolean canPlace(long mid , int[] position, int m){
+        long cnt = 1;
+        long last = position[0];
+        for(int i=0; i<position.length; i++){
+            if(position[i] - last >= mid){
+                cnt++;
+                last = position[i];
+            }
+            if(cnt == m){
+                return true;
             }
         }
-        if(c >= m) return true;
         return false;
-    }
-
-    public int max(int[] arr){
-        int max = Integer.MIN_VALUE;
-        for(int num: arr){
-            if(num > max){
-                max = num;
-            }
-        }
-        return max;
     }
 }
