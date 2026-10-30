@@ -304,6 +304,7 @@
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/pradeep-git-dev/leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [2462-total-cost-to-hire-k-workers](https://github.com/pradeep-git-dev/leetcode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/pradeep-git-dev/leetcode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -333,6 +334,7 @@
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pradeep-git-dev/leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pradeep-git-dev/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/pradeep-git-dev/leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/pradeep-git-dev/leetcode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -534,4 +536,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/pradeep-git-dev/leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/pradeep-git-dev/leetcode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/pradeep-git-dev/leetcode/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 <!---LeetCode Topics End-->
