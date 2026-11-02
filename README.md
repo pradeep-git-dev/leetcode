@@ -14,6 +14,7 @@
 | [0342-power-of-four](https://github.com/pradeep-git-dev/leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/pradeep-git-dev/leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0415-add-strings](https://github.com/pradeep-git-dev/leetcode/tree/main/0415-add-strings/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/pradeep-git-dev/leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/pradeep-git-dev/leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1927-sum-game](https://github.com/pradeep-git-dev/leetcode/tree/main/1927-sum-game/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pradeep-git-dev/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -52,6 +53,7 @@
 | [0376-wiggle-subsequence](https://github.com/pradeep-git-dev/leetcode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/pradeep-git-dev/leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/pradeep-git-dev/leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/pradeep-git-dev/leetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0463-island-perimeter](https://github.com/pradeep-git-dev/leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0494-target-sum](https://github.com/pradeep-git-dev/leetcode/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/pradeep-git-dev/leetcode/tree/main/0518-coin-change-ii/) | Medium |
